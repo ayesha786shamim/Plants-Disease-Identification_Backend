@@ -1,0 +1,13 @@
+tensorflow
+tensorflow-hub
+opencv-python
+matplotlib
+seaborn
+numpy
+jupyter
+pillow
+scikit-learn
+google-generativeai 
+python-dotenv
+fastapi 
+uvicorn
